@@ -19,6 +19,7 @@ export const WORDS = [
   'عشرين',
   'ميدان',
   'بتجاز',
+  'ضفضعة',
 ]
 
 if (CONFIG.normalization) {
